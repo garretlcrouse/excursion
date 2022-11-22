@@ -1,0 +1,14 @@
+#main_header {
+    font-family: Verdana;
+    font-weight: Normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+
+}
+
+.download_link {
+    font-size: 16px;
+    color: aquamarine;
+    text-align: center;
+}
