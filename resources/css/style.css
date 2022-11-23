@@ -1,4 +1,4 @@
-#main_header {
+h1 {
     font-family: Verdana;
     font-weight: Normal;
     font-size: 50px;
@@ -11,12 +11,12 @@ body {
     text-align: center;
 }
 
-.download_link {
+#download_link {
     font-size: 16px;
     color: aquamarine;
 }
 
-#excursion_desc {
+h2 {
     font-family: Verdana;
     font-size: 21px;
     color: gray;
